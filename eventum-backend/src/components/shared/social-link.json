@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_social_links",
+  "info": {
+    "displayName": "Social Link",
+    "icon": "link",
+    "description": "Ссылка на социальную сеть"
+  },
+  "attributes": {
+    "platform": {
+      "type": "enumeration",
+      "enum": ["vk", "telegram", "instagram", "youtube", "twitter"],
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

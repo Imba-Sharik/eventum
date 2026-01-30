@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "Homepage",
+    "description": "Настройки главной страницы (Hero секция)"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heroTitle": {
+      "type": "string",
+      "required": true,
+      "default": "Eventum"
+    },
+    "heroSubtitle": {
+      "type": "string",
+      "required": true,
+      "default": "Создаем события, которые запоминаются"
+    },
+    "heroDescription": {
+      "type": "text",
+      "required": true
+    },
+    "heroButtonText": {
+      "type": "string",
+      "default": "Обсудить проект"
+    },
+    "seoTitle": {
+      "type": "string"
+    },
+    "seoDescription": {
+      "type": "text"
+    },
+    "ogImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    }
+  }
+}

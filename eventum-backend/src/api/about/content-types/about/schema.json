@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "About",
+    "description": "Секция О компании"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "default": "Мы создаём события, которые работают"
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    },
+    "statistics": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.statistic"
+    }
+  }
+}

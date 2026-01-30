@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "Footer",
+    "description": "Настройки футера"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "copyright": {
+      "type": "string",
+      "default": "© Eventum"
+    },
+    "linkGroups": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link-group"
+    }
+  }
+}

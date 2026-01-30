@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_service_options",
+  "info": {
+    "displayName": "Service Option",
+    "icon": "check",
+    "description": "Опция услуги для формы контактов"
+  },
+  "attributes": {
+    "serviceId": {
+      "type": "string",
+      "required": true
+    },
+    "label": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

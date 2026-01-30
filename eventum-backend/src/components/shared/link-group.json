@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_link_groups",
+  "info": {
+    "displayName": "Link Group",
+    "icon": "bulletList",
+    "description": "Группа ссылок для футера"
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    }
+  }
+}
