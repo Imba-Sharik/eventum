@@ -6,12 +6,16 @@
 
 Ниже представлены скриншоты интерфейса:
 
+![video](screenshots/video.mp4)
 ![Screenshot 1](screenshots/screen1.webp)
 ![Screenshot 2](screenshots/screen2.webp)
 ![Screenshot 3](screenshots/screen3.webp)
 ![Screenshot 4](screenshots/screen4.webp)
 ![Screenshot 5](screenshots/screen5.webp)
 ![Screenshot 6](screenshots/screen6.webp)
+![Screenshot 6](screenshots/screen8.webp)
+![Screenshot 6](screenshots/screen9.webp)
+![Screenshot 6](screenshots/screen9.webp)
 
 ---
 
