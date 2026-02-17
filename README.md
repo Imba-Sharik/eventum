@@ -6,8 +6,7 @@
 
 Ниже представлены скриншоты интерфейса:
 
-![video](screenshots/video.mp4)
-![Screenshot 1](screenshots/screen1.webp)
+[![Watch demo](screenshots/screen1.webp)](screenshots/video.mp4)
 ![Screenshot 2](screenshots/screen2.webp)
 ![Screenshot 3](screenshots/screen3.webp)
 ![Screenshot 4](screenshots/screen4.webp)
